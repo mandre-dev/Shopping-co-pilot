@@ -1,0 +1,151 @@
+﻿sku,produto,categoria,fornecedor,prazo_entrega_dias,avaliacao_fornecedor,estoque_atual,estoque_minimo,demanda_prevista_dia,abaixo_do_minimo,qtd_sugerida_compra,custo_reposicao
+SKU-1000,Pisos Iure,Revestimentos,Borges,8,4.9,36,37,1.75,True,15,3990.6
+SKU-1001,Pisos Deserunt,Louças,Peixoto - ME,4,4.6,14,35,0.93,True,25,3524.5
+SKU-1002,Tintas Molestias,Louças,Peixoto - ME,4,4.6,73,19,1.71,False,0,0.0
+SKU-1003,Pisos Aliquam,Louças,Viana,9,4.1,47,46,0.0,False,0,0.0
+SKU-1004,Louças Nisi,Argamassas,Pimenta S/A,6,2.6,43,49,1.01,True,12,2610.48
+SKU-1005,Iluminação Dolore,Revestimentos,Oliveira Moraes S/A,4,3.4,31,39,0.0,True,8,404.88
+SKU-1006,Metais Quis,Argamassas,Pimenta,3,4.8,43,29,2.49,False,0,0.0
+SKU-1007,Revestimentos Error,Iluminação,Pimenta S/A,6,2.6,6,14,1.63,True,18,1459.98
+SKU-1008,Iluminação Nemo,Louças,Pimenta S/A,6,2.6,9,41,1.26,True,40,6518.0
+SKU-1009,Iluminação Eligendi,Argamassas,Viana,9,4.1,74,32,0.0,False,0,0.0
+SKU-1010,Pisos Vitae,Metais,Pimenta,3,4.8,8,27,2.16,True,25,7412.5
+SKU-1011,Metais Vero,Tintas,Borges,8,4.9,24,38,1.27,True,24,10180.32
+SKU-1012,Argamassas Autem,Pisos,Oliveira Moraes S/A,4,3.4,7,32,0.0,True,25,8729.5
+SKU-1013,Argamassas Voluptatem,Iluminação,Pacheco Andrade e Filhos,6,2.7,50,18,0.0,False,0,0.0
+SKU-1014,Revestimentos Animi,Iluminação,Vargas e Filhos,9,3.5,35,38,0.0,True,3,1172.49
+SKU-1015,Metais Itaque,Argamassas,Oliveira Moraes S/A,4,3.4,45,27,0.0,False,0,0.0
+SKU-1016,Revestimentos Ut,Pisos,Pacheco Andrade e Filhos,6,2.7,21,21,1.79,False,11,4141.83
+SKU-1017,Revestimentos Alias,Argamassas,Pimenta S/A,6,2.6,0,21,1.12,True,28,7847.56
+SKU-1018,Louças Officiis,Metais,Borges,8,4.9,65,30,1.3,False,0,0.0
+SKU-1019,Argamassas Delectus,Pisos,Pacheco Andrade e Filhos,6,2.7,51,45,1.46,False,3,872.76
+SKU-1020,Argamassas Autem,Revestimentos,Viana,9,4.1,3,13,0.0,True,10,1629.2
+SKU-1021,Revestimentos Nulla,Louças,Viana,9,4.1,9,13,1.4,True,17,7272.43
+SKU-1022,Louças Facere,Argamassas,Peixoto - ME,4,4.6,13,49,1.66,True,43,12511.71
+SKU-1023,Pisos Animi,Pisos,Pacheco Andrade e Filhos,6,2.7,60,32,2.61,False,0,0.0
+SKU-1024,Pisos Nihil,Revestimentos,Viana,9,4.1,39,39,1.23,False,11,3752.21
+SKU-1025,Louças Animi,Pisos,Oliveira Moraes S/A,4,3.4,20,26,1.3,True,11,4715.48
+SKU-1026,Pisos Sed,Iluminação,Pimenta,3,4.8,69,43,1.21,False,0,0.0
+SKU-1027,Louças Dolor,Tintas,Peixoto - ME,4,4.6,33,15,1.48,False,0,0.0
+SKU-1028,Tintas Dicta,Metais,Oliveira Moraes S/A,4,3.4,64,24,1.05,False,0,0.0
+SKU-1029,Metais Dolorem,Iluminação,Oliveira Moraes S/A,4,3.4,51,22,1.61,False,0,0.0
+SKU-1030,Pisos Officiis,Iluminação,Pimenta,3,4.8,3,41,0.0,True,38,8375.96
+SKU-1031,Argamassas Reiciendis,Iluminação,Pimenta S/A,6,2.6,44,22,1.33,False,0,0.0
+SKU-1032,Revestimentos Debitis,Argamassas,Oliveira Moraes S/A,4,3.4,6,33,1.84,True,34,5505.28
+SKU-1033,Iluminação Corrupti,Pisos,Pacheco Andrade e Filhos,6,2.7,78,40,1.76,False,0,0.0
+SKU-1034,Iluminação Provident,Metais,Viana,9,4.1,10,32,1.58,True,36,14787.0
+SKU-1035,Argamassas Labore,Iluminação,Pimenta S/A,6,2.6,22,22,1.28,False,8,421.92
+SKU-1036,Metais Magnam,Revestimentos,Peixoto - ME,4,4.6,10,35,1.43,True,31,13857.0
+SKU-1037,Iluminação Impedit,Metais,Peixoto - ME,4,4.6,7,11,1.7,True,11,3091.33
+SKU-1038,Revestimentos Mollitia,Louças,Peixoto - ME,4,4.6,44,48,1.07,True,8,194.48
+SKU-1039,Argamassas Sed,Iluminação,Oliveira Moraes S/A,4,3.4,17,16,2.23,False,8,2995.04
+SKU-1040,Tintas Explicabo,Louças,Oliveira Moraes S/A,4,3.4,6,23,0.0,True,17,5902.4
+SKU-1041,Iluminação Maiores,Revestimentos,Borges,8,4.9,13,30,1.0,True,25,10271.5
+SKU-1042,Iluminação Adipisci,Louças,Vargas e Filhos,9,3.5,74,32,1.47,False,0,0.0
+SKU-1043,Louças Similique,Louças,Borges,8,4.9,9,42,0.0,True,33,13024.11
+SKU-1044,Revestimentos Ab,Revestimentos,Pacheco Andrade e Filhos,6,2.7,19,21,1.45,True,11,3127.41
+SKU-1045,Metais Quam,Louças,Pacheco Andrade e Filhos,6,2.7,41,17,1.72,False,0,0.0
+SKU-1046,Revestimentos Inventore,Revestimentos,Pimenta,3,4.8,7,16,1.31,True,13,433.68
+SKU-1047,Pisos Dolorum,Iluminação,Viana,9,4.1,71,16,0.0,False,0,0.0
+SKU-1048,Louças Aliquam,Revestimentos,Pimenta,3,4.8,77,49,1.22,False,0,0.0
+SKU-1049,Revestimentos Voluptas,Metais,Pimenta,3,4.8,64,44,0.0,False,0,0.0
+SKU-1050,Argamassas Magni,Pisos,Vargas e Filhos,9,3.5,17,22,1.87,True,22,4561.04
+SKU-1051,Pisos Porro,Revestimentos,Pimenta,3,4.8,54,14,1.62,False,0,0.0
+SKU-1052,Revestimentos Ea,Tintas,Peixoto - ME,4,4.6,46,19,2.79,False,0,0.0
+SKU-1053,Argamassas Inventore,Argamassas,Peixoto - ME,4,4.6,12,24,1.54,True,18,8020.62
+SKU-1054,Louças Possimus,Argamassas,Pimenta S/A,6,2.6,13,24,1.29,True,19,3766.94
+SKU-1055,Pisos Ullam,Tintas,Pacheco Andrade e Filhos,6,2.7,46,32,0.0,False,0,0.0
+SKU-1056,Louças Ipsam,Tintas,Viana,9,4.1,66,11,0.0,False,0,0.0
+SKU-1057,Pisos Eveniet,Tintas,Pimenta,3,4.8,13,24,1.64,True,16,515.52
+SKU-1058,Iluminação Dicta,Argamassas,Pimenta,3,4.8,4,21,0.7,True,19,3640.21
+SKU-1059,Argamassas Asperiores,Metais,Pimenta S/A,6,2.6,73,44,0.0,False,0,0.0
+SKU-1060,Argamassas Quas,Pisos,Pimenta,3,4.8,23,13,0.0,False,0,0.0
+SKU-1061,Pisos Harum,Louças,Oliveira Moraes S/A,4,3.4,16,50,0.86,True,37,1627.26
+SKU-1062,Louças Architecto,Argamassas,Pimenta,3,4.8,43,17,1.61,False,0,0.0
+SKU-1063,Pisos Sunt,Revestimentos,Pimenta,3,4.8,30,12,1.03,False,0,0.0
+SKU-1064,Tintas Culpa,Louças,Oliveira Moraes S/A,4,3.4,80,22,1.0,False,0,0.0
+SKU-1065,Tintas Nulla,Iluminação,Borges,8,4.9,34,42,1.83,True,23,10295.03
+SKU-1066,Louças Magni,Louças,Oliveira Moraes S/A,4,3.4,11,12,1.28,True,6,1432.14
+SKU-1067,Metais Laborum,Iluminação,Vargas e Filhos,9,3.5,13,25,1.67,True,27,8115.66
+SKU-1068,Louças Necessitatibus,Tintas,Oliveira Moraes S/A,4,3.4,50,44,1.2,False,0,0.0
+SKU-1069,Argamassas Temporibus,Tintas,Borges,8,4.9,8,31,1.77,True,37,14026.33
+SKU-1070,Argamassas Dolores,Revestimentos,Borges,8,4.9,4,10,0.0,True,6,310.5
+SKU-1071,Louças Rerum,Revestimentos,Pimenta,3,4.8,36,34,1.17,False,2,69.36
+SKU-1072,Pisos Pariatur,Tintas,Pimenta S/A,6,2.6,14,21,0.0,True,7,3033.66
+SKU-1073,Tintas Iste,Revestimentos,Pimenta S/A,6,2.6,4,45,1.3,True,49,4634.91
+SKU-1074,Tintas Sapiente,Louças,Oliveira Moraes S/A,4,3.4,60,31,0.0,False,0,0.0
+SKU-1075,Revestimentos Ipsum,Argamassas,Borges,8,4.9,1,10,2.12,True,26,4845.88
+SKU-1076,Pisos Quaerat,Louças,Peixoto - ME,4,4.6,29,29,1.49,False,6,1806.18
+SKU-1077,Metais Officiis,Argamassas,Peixoto - ME,4,4.6,41,48,0.98,True,11,1524.82
+SKU-1078,Iluminação Quos,Iluminação,Vargas e Filhos,9,3.5,5,49,0.0,True,44,14706.12
+SKU-1079,Iluminação Eaque,Louças,Borges,8,4.9,33,42,1.5,True,21,7864.29
+SKU-1080,Pisos Molestias,Pisos,Borges,8,4.9,29,47,1.81,True,32,2332.8
+SKU-1081,Iluminação Praesentium,Argamassas,Borges,8,4.9,48,33,1.93,False,0,0.0
+SKU-1082,Argamassas Tempore,Tintas,Borges,8,4.9,31,50,1.36,True,30,6413.1
+SKU-1083,Louças Accusantium,Pisos,Viana,9,4.1,64,14,1.89,False,0,0.0
+SKU-1084,Iluminação Deserunt,Tintas,Oliveira Moraes S/A,4,3.4,4,40,0.78,True,39,12958.14
+SKU-1085,Argamassas Illum,Argamassas,Vargas e Filhos,9,3.5,20,23,1.05,True,12,580.56
+SKU-1086,Metais Praesentium,Metais,Oliveira Moraes S/A,4,3.4,78,28,1.69,False,0,0.0
+SKU-1087,Louças Necessitatibus,Louças,Peixoto - ME,4,4.6,38,19,1.39,False,0,0.0
+SKU-1088,Metais Suscipit,Revestimentos,Pacheco Andrade e Filhos,6,2.7,12,13,0.0,True,1,141.52
+SKU-1089,Argamassas Fugit,Iluminação,Viana,9,4.1,29,43,0.0,True,14,6259.26
+SKU-1090,Argamassas Facilis,Pisos,Pimenta,3,4.8,5,45,1.29,True,44,9444.6
+SKU-1091,Tintas Asperiores,Argamassas,Oliveira Moraes S/A,4,3.4,57,42,0.0,False,0,0.0
+SKU-1092,Revestimentos Id,Metais,Pimenta,3,4.8,2,23,1.17,True,25,10736.0
+SKU-1093,Louças Aliquam,Tintas,Viana,9,4.1,80,18,1.39,False,0,0.0
+SKU-1094,Argamassas Tenetur,Pisos,Peixoto - ME,4,4.6,62,24,0.0,False,0,0.0
+SKU-1095,Tintas Maxime,Metais,Peixoto - ME,4,4.6,51,41,1.4,False,0,0.0
+SKU-1096,Pisos Pariatur,Tintas,Pimenta S/A,6,2.6,42,34,1.3,False,0,0.0
+SKU-1097,Metais Laboriosam,Pisos,Pimenta,3,4.8,25,17,0.0,False,0,0.0
+SKU-1098,Pisos Molestiae,Tintas,Vargas e Filhos,9,3.5,75,14,1.33,False,0,0.0
+SKU-1099,Iluminação Nobis,Metais,Pimenta,3,4.8,0,13,1.55,True,18,5241.78
+SKU-1100,Argamassas Repellendus,Louças,Pimenta S/A,6,2.6,8,19,0.0,True,11,1073.38
+SKU-1101,Pisos Aut,Iluminação,Vargas e Filhos,9,3.5,54,33,1.65,False,0,0.0
+SKU-1102,Pisos Ut,Metais,Vargas e Filhos,9,3.5,10,45,0.98,True,44,9289.28
+SKU-1103,Argamassas Numquam,Pisos,Peixoto - ME,4,4.6,36,18,1.23,False,0,0.0
+SKU-1104,Tintas Eos,Metais,Pimenta,3,4.8,38,36,1.31,False,2,383.4
+SKU-1105,Metais Voluptatem,Argamassas,Viana,9,4.1,71,25,1.41,False,0,0.0
+SKU-1106,Iluminação Adipisci,Argamassas,Oliveira Moraes S/A,4,3.4,16,20,0.0,True,4,848.2
+SKU-1107,Argamassas Delectus,Revestimentos,Oliveira Moraes S/A,4,3.4,57,31,0.0,False,0,0.0
+SKU-1108,Tintas Commodi,Revestimentos,Pimenta S/A,6,2.6,11,21,1.47,True,19,2420.41
+SKU-1109,Metais Placeat,Iluminação,Vargas e Filhos,9,3.5,1,46,2.27,True,65,11799.45
+SKU-1110,Tintas Asperiores,Iluminação,Borges,8,4.9,17,43,0.0,True,26,6023.94
+SKU-1111,Metais Sequi,Louças,Oliveira Moraes S/A,4,3.4,16,46,2.14,True,39,2155.92
+SKU-1112,Argamassas Quo,Tintas,Borges,8,4.9,57,25,0.0,False,0,0.0
+SKU-1113,Louças A,Argamassas,Borges,8,4.9,60,37,1.63,False,0,0.0
+SKU-1114,Revestimentos Amet,Iluminação,Viana,9,4.1,57,43,0.73,False,0,0.0
+SKU-1115,Iluminação Deleniti,Metais,Pacheco Andrade e Filhos,6,2.7,13,19,1.24,True,13,675.74
+SKU-1116,Revestimentos Quae,Louças,Borges,8,4.9,2,12,0.95,True,18,5324.4
+SKU-1117,Tintas Amet,Louças,Vargas e Filhos,9,3.5,80,29,1.32,False,0,0.0
+SKU-1118,Louças Non,Louças,Oliveira Moraes S/A,4,3.4,9,17,2.04,True,16,2941.12
+SKU-1119,Pisos Laborum,Louças,Pimenta,3,4.8,0,24,1.3,True,28,12555.76
+SKU-1120,Argamassas Ducimus,Louças,Oliveira Moraes S/A,4,3.4,31,27,1.75,False,3,758.85
+SKU-1121,Pisos Repudiandae,Pisos,Oliveira Moraes S/A,4,3.4,39,11,1.03,False,0,0.0
+SKU-1122,Metais Asperiores,Argamassas,Pimenta S/A,6,2.6,14,36,1.0,True,28,3182.2
+SKU-1123,Tintas Sapiente,Metais,Vargas e Filhos,9,3.5,53,12,1.36,False,0,0.0
+SKU-1124,Pisos Enim,Revestimentos,Pacheco Andrade e Filhos,6,2.7,64,28,1.4,False,0,0.0
+SKU-1125,Revestimentos Veniam,Argamassas,Oliveira Moraes S/A,4,3.4,24,29,2.22,True,14,1823.92
+SKU-1126,Argamassas Quod,Louças,Peixoto - ME,4,4.6,19,28,0.94,True,13,5264.61
+SKU-1127,Louças Alias,Revestimentos,Vargas e Filhos,9,3.5,7,41,1.8,True,50,1932.5
+SKU-1128,Argamassas Libero,Pisos,Borges,8,4.9,18,11,0.0,False,0,0.0
+SKU-1129,Metais Iste,Pisos,Viana,9,4.1,40,38,0.0,False,0,0.0
+SKU-1130,Pisos Officiis,Tintas,Vargas e Filhos,9,3.5,29,31,1.33,True,14,5320.28
+SKU-1131,Pisos Culpa,Pisos,Pimenta,3,4.8,13,31,0.0,True,18,902.34
+SKU-1132,Louças Nesciunt,Iluminação,Oliveira Moraes S/A,4,3.4,15,36,0.0,True,21,3787.56
+SKU-1133,Pisos Consequatur,Pisos,Pacheco Andrade e Filhos,6,2.7,55,29,0.0,False,0,0.0
+SKU-1134,Tintas Placeat,Tintas,Pacheco Andrade e Filhos,6,2.7,24,44,2.14,True,33,929.61
+SKU-1135,Pisos Laboriosam,Argamassas,Borges,8,4.9,25,36,2.52,True,31,6722.66
+SKU-1136,Pisos Non,Louças,Pimenta S/A,6,2.6,11,13,1.04,True,8,1383.12
+SKU-1137,Pisos Debitis,Tintas,Pimenta S/A,6,2.6,78,31,0.0,False,0,0.0
+SKU-1138,Louças Animi,Iluminação,Viana,9,4.1,24,29,0.91,True,13,332.15
+SKU-1139,Argamassas Molestiae,Iluminação,Vargas e Filhos,9,3.5,22,24,0.0,True,2,717.12
+SKU-1140,Argamassas Illum,Revestimentos,Borges,8,4.9,16,37,2.57,True,42,15293.04
+SKU-1141,Louças Aliquid,Revestimentos,Pimenta S/A,6,2.6,19,29,1.49,True,19,7403.16
+SKU-1142,Pisos Delectus,Louças,Oliveira Moraes S/A,4,3.4,76,39,0.0,False,0,0.0
+SKU-1143,Metais Et,Pisos,Pacheco Andrade e Filhos,6,2.7,2,20,1.18,True,25,6384.5
+SKU-1144,Pisos Ad,Pisos,Pimenta,3,4.8,13,30,0.79,True,19,5447.3
+SKU-1145,Metais Explicabo,Argamassas,Peixoto - ME,4,4.6,15,23,1.65,True,15,1753.2
+SKU-1146,Metais Facere,Louças,Viana,9,4.1,30,36,1.71,True,21,7437.99
+SKU-1147,Tintas Saepe,Tintas,Pimenta,3,4.8,18,28,1.63,True,15,5040.9
+SKU-1148,Revestimentos Ab,Revestimentos,Peixoto - ME,4,4.6,23,22,2.17,False,8,1099.12
+SKU-1149,Argamassas Soluta,Tintas,Oliveira Moraes S/A,4,3.4,4,47,0.0,True,43,10134.67
